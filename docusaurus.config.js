@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mlab817/dafaqs2022',
+            'https://github.com/mlab817/dafaqs2022/edit/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mlab817/dafaqs2022',
+            'https://github.com/mlab817/dafaqs2022/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -127,6 +127,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
 };
 
 module.exports = config;
