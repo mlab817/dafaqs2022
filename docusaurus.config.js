@@ -38,6 +38,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/mlab817/dafaqs2022/edit/main',
+          showLastUpdateTime: true
         },
         blog: {
           showReadingTime: true,
@@ -155,6 +156,34 @@ const config = {
             parentCategoriesBoost: 2, // Only used when indexDocSidebarParentCategories > 0
           }
         }
+      ],
+      [
+        '@docusaurus/plugin-pwa',
+        {
+          debug: true,
+          offlineModeActivationStrategies: [
+            'appInstalled',
+            'standalone',
+            'queryString',
+          ],
+          pwaHead: [
+            {
+              tagName: 'link',
+              rel: 'icon',
+              href: '/img/docusaurus.png',
+            },
+            {
+              tagName: 'link',
+              rel: 'manifest',
+              href: '/manifest.json', // your PWA manifest
+            },
+            {
+              tagName: 'meta',
+              name: 'theme-color',
+              content: 'rgb(37, 194, 160)',
+            },
+          ],
+        },
       ],
     ]
 };
