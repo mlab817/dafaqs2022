@@ -7,8 +7,8 @@ sidebar_position: 17
 ## What is Land Use Reclassification (LUR) and the relevant legal issuances governing it?
 
 - Land use reclassification (LUR) or Reclassification of Agricultural Lands refers to the act of specifying how agricultural land shall be utilized for non-agricultural purposes such as residential, commercial, or industrial as embodied in the land use plan subject to the applicable requirements and procedure undertaken by the LGUs. It also includes reversion of agriculture lands to non-agricultural use.
-  - Section 20 of RA 7160 provides for the reclassification of land which may be validly made through an ordinance passed by the Sanggunian concerned after the conduct of public hearings held for that purpose.
-  - Memorandum Circular 54, series of 1993 from the Office of the President prescribes the guidelines governing Section 20 of the LGC of 1991, authorizing cities and municipalities to reclassify agricultural lands into non-agricultural uses. It defines the scope of agricultural lands and the limitation of reclassification, as well as requirements, procedures, and monitoring and evaluation of such.
+  - <u>Section 20 of RA 7160</u> provides for the reclassification of land which may be validly made through an ordinance passed by the Sanggunian concerned after the conduct of public hearings held for that purpose.
+  - <u>Memorandum Circular 54, series of 1993 from the Office of the President</u> prescribes the guidelines governing Section 20 of the LGC of 1991, authorizing cities and municipalities to reclassify agricultural lands into non-agricultural uses. It defines the scope of agricultural lands and the limitation of reclassification, as well as requirements, procedures, and monitoring and evaluation of such.
 
 
 ## What are the requirements for the issuance of DA Certification on Land Reclassification?

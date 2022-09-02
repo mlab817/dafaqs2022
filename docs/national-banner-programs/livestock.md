@@ -6,10 +6,10 @@ sidebar_position: 4
 
 ## What is the supply-demand outlook for pork and chicken for 2022?
 
-- For pork, the annual total supply for FY 2022 is projected at 1,842,445 metric tons with total demand pegged at 1,785,156 MT.
-- From this, there is a projected production surplus for pork for FY 2022 which is 57,288 metric tons equivalent to 12 days.
-- For chicken, the annual total supply for FY 2022 is projected at 1,815,908 metric tons with total demand pegged at 1,636,541 MT.
-- From this, there is a projected production surplus for chicken for FY 2022 which is 179,367 metric tons equivalent to 40 days.
+- For pork, the annual total supply for FY 2022 is projected at __1,842,445 metric tons__ with total demand pegged at __1,785,156 MT__.
+- From this, there is a projected production surplus for pork for FY 2022 which is __57,288 metric tons__ equivalent to __12 days__.
+- For chicken, the annual total supply for FY 2022 is projected at __1,815,908 metric tons__ with total demand pegged at __1,636,541 MT__.
+- From this, there is a projected production surplus for chicken for FY 2022 which is __179,367 metric tons__ equivalent to __40 days__.
 
 ## What is the status of pork and chicken importation as of July 2022?
 

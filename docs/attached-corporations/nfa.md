@@ -32,10 +32,12 @@ sidebar_position: 2
 - Additional warehouse space is also needed due to the Agency’s policy on “One Warehouse, One Cereal / Grain type”, (separate warehouse to serve as a food security hub and another warehouse for the storage of palay stocks in major rice producing / procuring areas);
 - Acquisition of Post-Harvest Facilities (PHF) is also needed, as modern rice mills and mechanical dryers are cost-efficient to operate compared to older versions of PHFs; and
 - The NFA has programmed the construction and acquisition of the following Warehouses and Post-Harvest Facilities for 2022-24:
-  - 2022: 27 Mechanical Dryers;
-  - 2023: 10 Warehouses, 4 Rice Mills, and 17 Mechanical Dryers; and
-  - 2024: 10 Warehouses, 7 Rice Mills, and 29 Mechanical Dryers.
 
+| Year  | Targets                                               |
+|:-----:|:-----------------------------------------------------:|
+| 2022  | 27 Mechanical Dryers                                  |
+| 2023  | 10 Warehouses, 4 Rice Mills, and 17 Mechanical Dryers |
+| 2024  | 10 Warehouses, 7 Rice Mills, and 29 Mechanical Dryers |
 
 ## What is the latest update on the results of the study on the NFA’s optimal level of buffer stock?
 

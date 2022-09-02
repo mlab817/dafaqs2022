@@ -27,8 +27,8 @@ sidebar_position: 15
 
 ## What are the bases of SAAD program in measuring project effects/impacts in its covered areas?
 
-- Database of Beneficiaries and Geotagging activities – Socio-economic and agri-related data are gathered during the identification of SAAD beneficiaries. These data will serve as the baseline of the program in assessing the effects of its interventions in the succeeding years.
-- Program Management Support Offices (PPMSO) monitoring – SAAD has created PPMSO that are stationed in the covered provinces/ municipalities. It is mostly comprised of Provincial and Area Coordinators that monitor and generate reports in relation to program implementation.
-- Compilation of SAAD Success Stories/ SAADventures – since the program is in its 4th year, there are projects that have been identified as successful. In turn, these are documented and promoted during report submissions, presentations, and activities of the program.
-- M&E Reporting – thru the Results Based Monitoring and Evaluation Rapid Appraisal (RBMERA), the program shall continue identifying the successes, challenges of implementation and develop responsive activities and policies in enhancing program implementation.
+- __Database of Beneficiaries and Geotagging activities__ – Socio-economic and agri-related data are gathered during the identification of SAAD beneficiaries. These data will serve as the baseline of the program in assessing the effects of its interventions in the succeeding years.
+- __Program Management Support Offices (PPMSO) monitoring__ – SAAD has created PPMSO that are stationed in the covered provinces/ municipalities. It is mostly comprised of Provincial and Area Coordinators that monitor and generate reports in relation to program implementation.
+- __Compilation of SAAD Success Stories/ SAADventures__ – since the program is in its 4th year, there are projects that have been identified as successful. In turn, these are documented and promoted during report submissions, presentations, and activities of the program.
+- __M&E Reporting__ – thru the Results Based Monitoring and Evaluation Rapid Appraisal (RBMERA), the program shall continue identifying the successes, challenges of implementation and develop responsive activities and policies in enhancing program implementation.
 

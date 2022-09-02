@@ -11,15 +11,15 @@ sidebar_position: 3
 - The Program has three (3) main focus areas, namely: a) Inclusive Agribusiness Development; b) Entrepreneurship Capability Enhancement; and c) Enterprise Development Assistance Services.
 - Since the RA 11321 remains as one of the “unfunded laws” being implemented by the Department, its programs, activities, and projects are undertaken through the regular PAPs or budget of concerned DA operating units, bureaus, and agencies, or by attribution only.
 - Below are the status of some of these PAPs:
-  - ACPC Loan Programs have released the following amounts from January to May 2022:
+  - __ACPC Loan Programs__ have released the following amounts from January to May 2022:
     - Under Kapital Access for Young Agripreneurs (KAYA): Php22.1 million to 71 borrowers; and
     - Under Agri-Negoyo (ANYO) Loan Program: Php636.5 million to 6,064 borrowers.
 - Below are the status of some of these PAPs:
-  - Training Programs:
+  - __Training Programs__:
       - As of July 2022, ATI has conducted 17 training courses and other training–related activities intended for farmers and fisherfolk enterprises (FFEs) and MSMEs, reaching a total of 397 participants;
       - Agribusiness and Marketing Assistance Divisions of DA RFOs have conducted 58 training events/ capability-building activities benefitting a total of 1,369 individual participants and 276 groups in the 1st semester of FY 2022;
-  - Insurance Program. The  Philippine Crop Insurance Corporation (PCIC) has provided cover amounting to Php1,640.42 million to 27,747 farmers and fisherfolk (representing 544 FCAs) from January to June 30, 2022. A total indemnity of Php68.500 million has also been paid to 7,441 claimants representing 283 FCAs.
-  - Agribusiness Development Services. The DA has extended assistance to 16,430 individuals and 240 FCAs and MSMEs related to CSO accreditation, loan facilitation, market linkage, and business registration, among others.
+  - __Insurance Program__. The  Philippine Crop Insurance Corporation (PCIC) has provided cover amounting to Php1,640.42 million to 27,747 farmers and fisherfolk (representing 544 FCAs) from January to June 30, 2022. A total indemnity of Php68.500 million has also been paid to 7,441 claimants representing 283 FCAs.
+  - __Agribusiness Development Services__. The DA has extended assistance to 16,430 individuals and 240 FCAs and MSMEs related to CSO accreditation, loan facilitation, market linkage, and business registration, among others.
 
 ## What is the status of implementation of the Farmers and Fisherfolk Enterprise Development Information System (FFEDIS)?
 
