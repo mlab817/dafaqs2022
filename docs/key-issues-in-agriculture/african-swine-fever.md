@@ -30,9 +30,9 @@ tags:
 
 ## What is the status of the ASF Indemnification Program?
 
-- Implementation of sentinel protocol. The sentinel protocol is implemented by providing animals as sentinels, as well as feeds and biologics sufficient to grow the animals for up to 40 days. For FY 2022, the DA allocated PhP 892 million for the sentinel program.
-- Community-Based Swine Production Thru Clustering and Consolidation Project. For FY 2022, the DA allocated PhP 2.6 Billion for the implementation of this Project.
-- The NLP allotted several alternative livestock multiplier farm modules (cattle, chicken, duck, and other small ruminants) for FY 2022 with a total allotment of PhP 178 million. For FY 2023, the program is proposing a total of Php 188,125 the said alternative livelihood program
+- A total amount of PhP 1,978,239,000.00 worth of indemnification payment was distributed to 52,052 hog raisers from 401,937 hogs culled nationwide as of 13 June 2022.
+- It should be noted that Indemnification thru the DA Quick Response Fund (QRF) has already ended last June 30, 2021, and that Indemnification from July 1, 2021 to present is under the Philippine Crop Insurance Commission (PCIC).
+- This is based on DA Memorandum dated 14 June 2021, in which all hogs depopulated from 1 October 2020 to 30 June 2021 will be accommodated under the DA QRF, and that hog raisers are encouraged to apply for insurance of their hogs to the PCIC.
 
 ## What are the alternative livelihoods for the ASF-affected farmers?
 
