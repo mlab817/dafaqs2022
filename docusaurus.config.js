@@ -12,7 +12,8 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-192x192.png',
+  staticDirectories: ['static'],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -50,6 +51,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        googleAnalytics: {
+          trackingID: 'UA-141789564-1',
+          anonymizeIP: true,
+        }
       }),
     ],
   ],
@@ -61,7 +66,7 @@ const config = {
         title: 'FAQs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -79,6 +84,12 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+          src: '/img/logo.png',
+          alt: 'logo',
+          height: 32,
+          target: '_self'
+        },
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Mark Lester Bolotaolo. Built with Docusaurus.`,
       },
@@ -170,7 +181,7 @@ const config = {
             {
               tagName: 'link',
               rel: 'icon',
-              href: '/img/docusaurus.png',
+              href: '/img/logo.png',
             },
             {
               tagName: 'link',
@@ -185,7 +196,8 @@ const config = {
           ],
         },
       ],
-    ]
+
+    ],
 };
 
 module.exports = config;
