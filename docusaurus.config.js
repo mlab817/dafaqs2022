@@ -103,7 +103,7 @@ const config = {
         require.resolve("@cmfcmf/docusaurus-search-local"),
         {
           // whether to index docs pages
-          indexDocs: false,
+          indexDocs: true,
 
           // Whether to also index the titles of the parent categories in the sidebar of a doc page.
           // 0 disables this feature.
@@ -112,7 +112,7 @@ const config = {
           // 3...
           //
           // Do _not_ use Infinity, the value must be a JSON-serializable integer.
-          indexDocSidebarParentCategories: 3,
+          indexDocSidebarParentCategories: 2,
 
           // whether to index blog pages
           indexBlog: false,
