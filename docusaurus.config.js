@@ -73,7 +73,7 @@ const config = {
             type: 'doc',
             docId: 'toc',
             position: 'left',
-            label: 'FAQs',
+            label: 'Table of Contents',
           },
           // {to: '/blog', label: 'FAQs', position: 'left'},
           {

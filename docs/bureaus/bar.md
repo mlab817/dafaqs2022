@@ -6,7 +6,6 @@ sidebar_position: 4
 
 ## What is the Department’s level of R4D investment for the last 10 years?
 
-- What is the Department’s level of R4D investment for the last 10 years?
 - For the last 10 years, the average R4D investments of the DA is Php 2.45 Billion and is equivalent to about 9% average investment growth for the concerned period.
 - The Department’s research intensity or share vis-a-vis the country’s overall Gross Domestic Product (GDP) and Gross Value-Added (GVA) for the A&F sector only averages to 0.02% and 0.17%, respectively.
 - This is below the recommendations of both the United Nations Educational, Scientific and Cultural Organization (UNESCO) and the Agriculture and Fisheries Modernization Act of 1997 (AFMA) which is 1% of the country’s GDP.

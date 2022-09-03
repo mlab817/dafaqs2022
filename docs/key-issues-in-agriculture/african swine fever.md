@@ -1,6 +1,12 @@
 ---
 title: African Swine Fever
 slug: /african-swine-fever
+sidebar_position: 1
+tags:
+  - disease
+  - asf
+  - indemnification
+  - alternative livelihood
 ---
 
 # African Swine Fever
@@ -13,7 +19,7 @@ slug: /african-swine-fever
 - Two hundred three municipalities (203) were upgraded from Red (Infected) Zone to Pink (Buffer) Zone as of 4 August 2022.
 - Thirty-three (33) municipalities were upgraded from Pink (Buffer) Zone to Yellow (Surveillance) Zone as of 4 August 2022.
 
-## What is the government strategy in managing, containing, and controlling the disease?
+## What is the government strategy in managing, containing, and controlling the ASF?
 
 - 1-7-10 Protocol - used in controlling the spread of ASF in an area known to have the disease infection as supported by laboratory evidence implemented as follows:
   - Quarantine zone - an area set within 1 km radius from infected farm to contain infection by limiting animal movement and employing mandatory test and destruction of all infected animals;
@@ -22,7 +28,7 @@ slug: /african-swine-fever
 - Control measures done in the affected areas: suspected pigs with disease are culled, removed, buried, and disinfected.
 - Disposal of the dead and sick pigs: The team, composed of the Provincial Veterinary Office and Local ASF Task Force, identify the sites, excavate, bury, and then disinfect the burying grounds.
 
-## What is the status of the African Swine Fever Indemnification Program?
+## What is the status of the ASF Indemnification Program?
 
 - Implementation of sentinel protocol. The sentinel protocol is implemented by providing animals as sentinels, as well as feeds and biologics sufficient to grow the animals for up to 40 days. For FY 2022, the DA allocated PhP 892 million for the sentinel program.
 - Community-Based Swine Production Thru Clustering and Consolidation Project. For FY 2022, the DA allocated PhP 2.6 Billion for the implementation of this Project.

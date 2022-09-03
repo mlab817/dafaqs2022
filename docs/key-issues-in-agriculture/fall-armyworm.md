@@ -1,3 +1,11 @@
+---
+sidebar_position: 5
+tags:
+  - faw
+  - pest
+  - damage
+---
+
 # Fall Armyworm
 
 ## How much damage was caused by FAW to corn areas?

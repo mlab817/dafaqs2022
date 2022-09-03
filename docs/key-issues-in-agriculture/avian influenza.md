@@ -1,6 +1,13 @@
 ---
 title: Avian Influenza
 slug: /avian-influenza
+sidebar_position: 2
+tags:
+  - bird flue
+  - ai
+  - influenza
+  - outbreak
+  - disease
 ---
 
 # Avian Influenza

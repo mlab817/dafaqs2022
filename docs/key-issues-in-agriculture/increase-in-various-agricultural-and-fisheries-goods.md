@@ -1,3 +1,13 @@
+---
+sidebar_position: 6
+tags:
+  - price increase
+  - inflation
+  - onion
+  - kadiwa
+  - srp
+---
+
 # Increase in prices of various agricultural and fisheries goods
 
 ## What are the actions undertaken or planned to stabilize the prices of various agricultural and fisheries goods?

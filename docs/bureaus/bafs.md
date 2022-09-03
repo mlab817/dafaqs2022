@@ -6,12 +6,6 @@ sidebar_position: 2
 
 ## How many standards will DA-BAFS develop in FY 2023?
 
-- How many standards will DA-BAFS develop in FY 2023?
-- What is the Status of BAFS implementation of Republic Act No. 11511 (An Act Amending the Republic Act No. 10068 or the Organic Agriculture Act of 2010)?
-- How many PNS have been adopted as basis for technical regulations?
-
-## What is the Status of BAFS implementation of Republic Act No. 11511 (An Act Amending the Republic Act No. 10068 or the Organic Agriculture Act of 2010)?
-
 - For FY 2023, BAFS will develop 20 Philippine National Standards (PNS) based on proposals submitted by relevant stakeholders and following a standards development prioritization process.
 - Among these standards that BAFS will develop for FY 2023 include the following:
   - Good Agricultural Practices (GAP) for Rubber – Code of Practice;
@@ -19,6 +13,9 @@ sidebar_position: 2
   - Recommended Methods of Analysis and Sampling – Guidelines;
   - Organic Soil Amendments – Product Standard; and
   - Organic Biocontrol Agents  - Product Standard.
+  
+## What is the Status of BAFS implementation of Republic Act No. 11511 (An Act Amending the Republic Act No. 10068 or the Organic Agriculture Act of 2010)?
+
 - BAFS, together with its Technical Working Groups (TWG),  developed eight (8) Philippine National Standards relevant to organic agriculture as of July 2022.
 - Also, BAFS has two (2) officially accredited third-party organic certifying bodies, namely: OCCP-Inspection and Certification Services, Inc. (ICSI), and Control Union Philippines, Inc. (CUPI).
 - BAFS issued 5 certificates of registration (COR) for organic soil amendment (OSA) producers, 8 certificates of product registration (CPR) to OSA  products, 1 COR to organic biocontrol agent (OBCA) producer, 5 CPR to OBCA products, and 12 COR to organic farm producers.

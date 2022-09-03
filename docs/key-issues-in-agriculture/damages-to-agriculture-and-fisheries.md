@@ -1,3 +1,14 @@
+---
+sidebar_position: 4
+tags:
+  - damage
+  - calamities
+  - qrf
+  - typhoon
+  - pest
+  - flood
+  - taal
+---
 
 # Damages to Agriculture and Fisheries
 
