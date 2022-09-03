@@ -87,7 +87,7 @@ const config = {
         logo: {
           src: '/img/logo.png',
           alt: 'logo',
-          height: 32,
+          height: 64,
           target: '_self'
         },
         style: 'dark',
@@ -103,7 +103,7 @@ const config = {
         require.resolve("@cmfcmf/docusaurus-search-local"),
         {
           // whether to index docs pages
-          indexDocs: true,
+          indexDocs: false,
 
           // Whether to also index the titles of the parent categories in the sidebar of a doc page.
           // 0 disables this feature.
