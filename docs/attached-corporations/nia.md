@@ -28,14 +28,14 @@ sidebar_position: 5
   - NIA = PhP 337 Billion;
   - LGU = PhP 195 Billion; and
   - OGA = PhP 29 Billion
-
-
+  
 ## What is the status of project implementation of irrigation programs for the past 2 years?
 
 - As of July 2022, the physical performances of the budgets in 2021 and 2022, is 83.29% and 25.20%, respectively.
 - This is affected by the enhanced community quarantine due to the pandemic.
 - The particulars are as follows:
 
+![status of project implementation of irrigation programs](./img/nia%20status.png)
 
 ## What are the updates on the Free Irrigation Service Act (FISA)?
 
