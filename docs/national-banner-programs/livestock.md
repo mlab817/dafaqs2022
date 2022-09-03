@@ -1,5 +1,16 @@
 ---
+title: National Livestock Program
+slug: national-livestock-program
 sidebar_position: 4
+tags:
+  - livestock
+  - pork
+  - chicken
+  - supply and demand
+  - importation
+  - native swine
+  - pnad
+  - inspire
 ---
 
 # National Livestock Program
@@ -13,12 +24,12 @@ sidebar_position: 4
 
 ## What is the status of pork and chicken importation as of July 2022?
 
-- For pork, total volume that arrived for this period is 13,613MT.
-- These are composed of Prime Cuts such as pork bellies (56.06%),  Meat Processing Cuts such as fats, skin and offals (43.67%), and Whole Pork (0.27%)
-- It should be noted that fluctuations seen in the volume of pork imports are mainly influenced by offals as it makes up a considerable portion of the shipment as a whole and its affordability makes it an excellent alternative to prime cuts.
-- For chicken, total volume that arrived for this period is 9,446MT.
-- These are composed of Choice Cuts such as chicken leg quarters (40.10%), Chicken Mechanically Deboned Meat (MDM) (57.85%), and Other Chicken Meat Processing Cuts (2.05%).
-- It should be noted that the total volume of chicken import arrivals has decreased in comparison to the previous years due to the imposition of an embargo on poultry products.
+- For pork, total volume that arrived for this period is 13,613 MT.
+  - These are composed of Prime Cuts such as pork bellies (56.06%),  Meat Processing Cuts such as fats, skin and offals (43.67%), and Whole Pork (0.27%)
+  - It should be noted that fluctuations seen in the volume of pork imports are mainly influenced by offals as it makes up a considerable portion of the shipment as a whole and its affordability makes it an excellent alternative to prime cuts.
+- For chicken, total volume that arrived for this period is 9,446 MT.
+  - These are composed of Choice Cuts such as chicken leg quarters (40.10%), Chicken Mechanically Deboned Meat (MDM) (57.85%), and Other Chicken Meat Processing Cuts (2.05%).
+  - It should be noted that the total volume of chicken import arrivals has decreased in comparison to the previous years due to the imposition of an embargo on poultry products.
 
 ## What are the measures/initiatives undertaken by the Department to strengthen and improve biosecurity, biosafety, and biosurveillance?
 

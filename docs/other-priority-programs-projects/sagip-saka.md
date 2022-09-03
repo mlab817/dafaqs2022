@@ -1,5 +1,11 @@
 ---
+title: Sagip Saka Act Implementation
+slug: sagip-saka-act-implementation
 sidebar_position: 3
+tags:
+ - sagip saka
+ - ra 11321
+ - ffedis
 ---
 
 # Sagip Saka Act Implementation

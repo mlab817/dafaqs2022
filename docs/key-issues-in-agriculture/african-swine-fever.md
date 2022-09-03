@@ -1,6 +1,6 @@
 ---
 title: African Swine Fever
-slug: /african-swine-fever
+slug: african-swine-fever
 sidebar_position: 1
 tags:
   - disease

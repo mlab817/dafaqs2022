@@ -1,8 +1,19 @@
 ---
+title: High Value Crops Development Program
+slug: high-value-crops-development-program
 sidebar_position: 3
+tags:
+  - hvcdp
+  - vegetables
+  - technology
+  - credit
+  - cecid fly
+  - pest
+  - white onion
+  - gap
 ---
 
-# High Value Crops Development Program
+# High Value Crops Development Program (HVCDP)
 
 ## How is HVCDP addressing challenges in the vegetables industry?
 

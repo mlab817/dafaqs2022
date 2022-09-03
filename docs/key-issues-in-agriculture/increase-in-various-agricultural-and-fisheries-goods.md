@@ -1,4 +1,6 @@
 ---
+title: Increase in prices of various agricultural and fisheries goods
+slug: increase-in-various-agricultural-and-fisheries-goods
 sidebar_position: 6
 tags:
   - price increase

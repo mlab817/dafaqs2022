@@ -1,8 +1,21 @@
 ---
-sidebar_position: 3
+title: National Tobacco Administration
+slug: national-tobacco-administration
+sidebar_position: 4
+tags:
+  - nta
+  - tobacco
+  - issues
+  - challenges
+  - ra 10351
+  - sin tax
+  - ra 10351
+  - ra 7171
+  - ra 8240
+  - ra 4155
 ---
 
-# National Tobacco Administration
+# National Tobacco Administration (NTA)
 
 
 ## What is the significance of the Philippine Tobacco Industry? 

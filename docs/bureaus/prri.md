@@ -1,5 +1,10 @@
 ---
+title: Philippine Rubber Research Institute
+slug: /bureaus/philippine-rubber-research-institute
 sidebar_position: 8
+tags:
+  - rubber
+  - prri
 ---
 
 # Philippine Rubber Research Institute
@@ -8,8 +13,8 @@ sidebar_position: 8
 
 - The Philippines ranked as top eight among the world’s top ten rubber producing countries and accounts for 1% of the world’s total dry rubber production (ANRPC, 2019).
 - The employment generated in the countryside is composed of 90% smallholder rubber farmers and 10% large-scale farmers (i.e., rubber cooperatives, traders and processors).
-- Rubber contributes 0.7% of the total crop production in the Philippines amounting to Php. 3.7 billion (PSA, 2019).
-- Further, Rubber is a lucrative industry with potential for profitable investment in the new normal, as it serves as raw material in making surgical gloves for medical frontliners, as well as in various products such as automobile tires, gaskets, lining, condoms, rubberized road, seismic bearing for bridge retrofitting, other sporting materials and facilities (i.e., tennis, basketball, etc..) and other industrial rubber-based products (Philippine Rubber Roadmap 2017-2022).
+- Rubber contributes 0.7% of the total crop production in the Philippines amounting to PhP 3.7 billion (PSA, 2019).
+- Further, rubber is a lucrative industry with potential for profitable investment in the new normal, as it serves as raw material in making surgical gloves for medical frontliners, as well as in various products such as automobile tires, gaskets, lining, condoms, rubberized road, seismic bearing for bridge retrofitting, other sporting materials and facilities (i.e., tennis, basketball, etc.) and other industrial rubber-based products (Philippine Rubber Roadmap 2017-2022).
 
 ## What is the role of PRRI in improving the Philippine Rubber Industry?
 
@@ -19,7 +24,7 @@ sidebar_position: 8
 
 ## How does PRRI address the low price of rubber cuplump?
 
-- PRRI addresses the concern on low prices of rubber cuplump by Value-Adding. Higher grade of centrifuge latex and rubber sheets  are raw materials needed in producing condom, tires for luxury vehicles, tires, and medical gloves. This can increase the price of rubber products.
+- PRRI addresses the concern on low prices of rubber cuplump by value-adding. Higher grade of centrifuge latex and rubber sheets  are raw materials needed in producing condom, tires for luxury vehicles, tires, and medical gloves. This can increase the price of rubber products.
 - Hence, PRRI is promoting the establishment of village-based rubber processing plant for the processing of cuplumps to rubber crepe pale, rubber sheets.
 - In turn, this aims to increase the income of rubber farmers to at least 30%.
 - Also, PRRI will continue and strengthen its information drive on rubber cuplump value-adding.

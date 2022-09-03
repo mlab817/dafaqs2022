@@ -1,8 +1,15 @@
 ---
+title: Philippine Council for Agriculture and Fisheries
+slug: philippine-council-for-agriculture-and-fisheries
 sidebar_position: 8
+tags:
+  - pcaf
+  - icare
+  - japan 2kr
+  - pl 480
 ---
 
-# Philippine Council for Agriculture and Fisheries
+# Philippine Council for Agriculture and Fisheries (PCAF)
 
 ## What is PCAF-iCARE?
 

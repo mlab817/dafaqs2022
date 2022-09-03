@@ -1,5 +1,9 @@
 ---
+title: National Soil Health Program
+slug: national-soil-health-program
 sidebar_position: 11
+tags:
+ - soil health
 ---
 
 # National Soil Health Program

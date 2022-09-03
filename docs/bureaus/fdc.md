@@ -1,8 +1,15 @@
 ---
+title: Food Development Center
+slug: /bureaus/food-development-center
 sidebar_position: 9
+tags:
+  - fdc
+  - food safety
+  - authenticity
+  - adulteration
 ---
 
-# Food Development Center
+# Food Development Center (FDC)
 
 ## What specific assistance can FDC render to our farmers/fisher folks taking into consideration food safety in marketing their fresh produce and processed products?
 
@@ -21,4 +28,4 @@ sidebar_position: 9
 ## How does the Food Development Center food safety training courses differ from other training providers?
 
 - FDC trainings are designed primarily to provide scientific support to FSRAs and FBOs.
-- FDC has its own pool of subject matter experts who act as resource persons on several food safety related training courses for raw food and processed food products. It also offers specialized training courses on food processing, product testing, and food labelling. Training courses are conceptualized and customized depending on the specific needs of FSRAs and FBOs.  
+- FDC has its own pool of subject-matter experts who act as resource persons on several food safety related training courses for raw food and processed food products. It also offers specialized training courses on food processing, product testing, and food labelling. Training courses are conceptualized and customized depending on the specific needs of FSRAs and FBOs.  

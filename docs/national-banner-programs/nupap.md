@@ -1,8 +1,14 @@
 ---
+title: National Urban and Peri-urban Agriculture Program
+slug: national-urban-and-peri-urban-agriculture-program
 sidebar_position: 8
+tags:
+  - nupap
+  - urban agriculture
+  - peri-urban agriculture
 ---
 
-# National Urban and Peri-urban Agriculture Program
+# National Urban and Peri-urban Agriculture Program (NUPAP)
 
 ## Does the National Urban and Peri-Urban Agriculture Program (NUPAP) have the budget to implement urban agriculture?
 

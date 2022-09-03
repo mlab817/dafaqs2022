@@ -1,5 +1,11 @@
 ---
+title: National Corn Program
+slug: national-corn-program
 sidebar_position: 2
+tags:
+  - corn
+  - cassava
+  - feed sufficiency level
 ---
 
 # National Corn Program

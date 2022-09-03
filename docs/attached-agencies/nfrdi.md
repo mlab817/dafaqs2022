@@ -1,8 +1,16 @@
 ---
+title: National Fisheries Research and Development Institute
+slug: national-fisheries-research-and-development-institute
 sidebar_position: 3
+tags:
+  - nfrdi
+  - fisheries
+  - fish sufficiency level
+  - nsap
+  - stock assessment
 ---
 
-# National Fisheries Research and Development Institute
+# National Fisheries Research and Development Institute (NFRDI)
 
 ## What are the programs of NFRDI to support aquaculture expansion and to improve fish sufficiency levels in the country?
 

@@ -1,5 +1,9 @@
 ---
+title: Establishment of Smart Agriculture System in Western Visayas
+slug: establishment-of-smart-agriculture-system-in-western-visayas
 sidebar_position: 18
+tags:
+ - smart agriculture
 ---
 
 # Establishment of Smart Agriculture System in Western Visayas 
@@ -10,7 +14,7 @@ sidebar_position: 18
 
 ## How can the technology be transferred to farmers?
 
-
+[NO RESPONSE as of September 3, 2022 1:30 PM]
 
 ## Are the crops grown in the smart greenhouse have market potential?
 

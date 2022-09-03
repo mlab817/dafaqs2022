@@ -1,5 +1,10 @@
 ---
+title: Land Use Reclassification
+slug: land-use-reclassification
 sidebar_position: 17
+tags:
+ - land use reclassification
+ - land use
 ---
 
 # Land Use Reclassification

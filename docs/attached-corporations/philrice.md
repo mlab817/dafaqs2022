@@ -1,8 +1,17 @@
 ---
+title: Philippine Rice Research Institute
+slug: philippine-rice-research-institute
 sidebar_position: 7
+tags:
+  - philrice
+  - rice
+  - research
+  - ra 11203
+  - production cost
+  - rice tariffication law
 ---
 
-# Philippine Rice Research Institute
+# Philippine Rice Research Institute (PhilRice)
 
 ## What is the current status of the Philippine Rice Industry?
 

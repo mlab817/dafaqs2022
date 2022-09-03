@@ -1,5 +1,11 @@
 ---
+title: National Rice Program
+slug: national-rice-program
 sidebar_position: 1
+tags:
+  - rice
+  - hybrid seeds
+  - fertilizer vouchers
 ---
 
 # National Rice Program
@@ -7,7 +13,7 @@ sidebar_position: 1
 ## What are the available interventions of the NRP that the farmers can avail?
 
 - The support provided by NRP is differentiated among individual farmers and farmer groups such as Farmer Cooperatives/Associations (FCAs), Irrigators Association (IAs), and Small Water Irrigation System Associations (SWISAs).
-- Individual farmers can avail provisions of high-quality (hybrid) seeds, fertilizer discount vouchers (FDVs), seed & Agri-chemical reserves, training and extension services.
+- Individual farmers can avail provisions of high-quality (hybrid) seeds, fertilizer discount vouchers (FDVs), seed & agri-chemical reserves, training and extension services.
 - Farmer groups and associations may avail from NRP provision of production and post harvest equipment and machinery, establishment of post harvest facilities, and establishment of Small Scale Irrigation Projects (SSIPs).
 
 ## How to be included in the list of beneficiaries?

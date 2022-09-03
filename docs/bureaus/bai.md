@@ -1,8 +1,21 @@
 ---
+title: Bureau of Animal Industry
+slug: /bureaus/bureau-of-animal-industry
 sidebar_position: 3
+tags:
+  - bai
+  - fmd
+  - foot-and-mouth disease
+  - disease
+  - pest
+  - rabies
+  - ppr
+  - african horse sickness
+  - newcastle
+  - pork importation
 ---
 
-# Bureau of Animal Industry
+# Bureau of Animal Industry (BAI)
 
 ## What is the current status and situation of other Economically Important Diseases such as Foot-and-Mouth Disease (FMD)?
 

@@ -1,5 +1,9 @@
 ---
+title: Rice Farmers Financial Assistance (RFFA)
+slug: rice-farmers-financial-assistance-rffa
 sidebar_position: 27
+tags:
+ - rffa
 ---
 
 # Rice Farmers Financial Assistance (RFFA)

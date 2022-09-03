@@ -1,5 +1,11 @@
 ---
+title: Mandanas/Further Devolution
+slug: mandanasfurther-devolution
 sidebar_position: 21
+tags:
+ - mandanas
+ - devolution
+ - dtp
 ---
 
 # Mandanas/Further Devolution

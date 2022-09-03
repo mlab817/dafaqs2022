@@ -1,8 +1,14 @@
 ---
+title: Philippine Fiber Industry Development Authority
+slug: philippine-fiber-industry-development-authority
 sidebar_position: 6
+tags:
+  - philfida
+  - abaca
+  - bt cotton
 ---
 
-# Philippine Fiber Industry Development Authority 
+# Philippine Fiber Industry Development Authority (PhilFIDA)
 
 ## What is the status and interventions for the Bt Cotton Project?
 

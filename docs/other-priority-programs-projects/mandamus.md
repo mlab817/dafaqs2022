@@ -1,5 +1,10 @@
 ---
+title: DA-Manila Bay Mandamus
+slug: da-manila-bay-mandamus
 sidebar_position: 26
+tags:
+ - manila bay
+ - mandamus
 ---
 
 # DA-Manila Bay Mandamus

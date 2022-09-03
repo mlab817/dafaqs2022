@@ -1,8 +1,15 @@
 ---
+title: Philippine Fisheries Development Authority
+slug: philippine-fisheries-development-authority
 sidebar_position: 6
+tags:
+  - pfda
+  - fish ports
+  - modern fish market
+  - mandanas
 ---
 
-# Philippine Fisheries Development Authority
+# Philippine Fisheries Development Authority (PFDA)
 
 ## What are the criteria used in the selection of sites for project implementation of fish ports as well as the procedure in requesting assistance for the establishment of post-harvest facilities?
 

@@ -1,5 +1,11 @@
 ---
+title: Investment Promotions
+slug: investment-promotions
 sidebar_position: 7
+tags:
+ - investment promotions
+ - pcip
+ - ofw
 ---
 
 # Investment Promotions

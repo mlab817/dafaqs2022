@@ -1,5 +1,10 @@
 ---
+title: Agriculture-Based Central Data Ecosystem (AbCDE)
+slug: agriculture-based-central-data-ecosystem-abcde
 sidebar_position: 28
+tags:
+  - abcde
+  - data
 ---
 
 # Agriculture-Based Central Data Ecosystem (AbCDE) 

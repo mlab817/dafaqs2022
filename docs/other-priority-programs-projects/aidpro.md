@@ -1,5 +1,11 @@
 ---
+title: Agriculture and Fisheries Industrialization Development Program (AIDPro)
+slug: agriculture-and-fisheries-industrialization-development-program-aidpro
 sidebar_position: 16
+tags:
+ - aidpro
+ - food terminal system
+ - navotas fish port
 ---
 
 # Agriculture and Fisheries Industrialization Development Program (AIDPro) 

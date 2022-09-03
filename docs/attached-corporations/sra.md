@@ -1,4 +1,14 @@
-# Sugar Regulatory Administration
+---
+title: Sugar Regulatory Administration
+slug: sugar-regulatory-administration
+sidebar_position: 8
+tags:
+  - sra
+  - sugar
+  - sida
+---
+
+# Sugar Regulatory Administration (SRA)
 
 ## What is the total raw production for the crop year, 2021-2022?
 
@@ -17,12 +27,15 @@
 ## What are the prevailing wholesale and retail prices? How long do we see these high prices of sugar will last?
 
 - As of August 5, 2022, SRA’s monitored sugar prices are the following:
+
 ### Raw sugar
   - wholesale 50KG: Php3,250.00
   - retail supermarket: Php69.50 & retail wet market: Php70.00
+
 ### Washed sugar
   - wholesale 50KG: Php3,330.00
   - retail supermarket: Php69.50 & retail wet market: Php75.00
+
 ### Refined sugar:
   - wholesale 50KG: Php4,400.00
   - retail supermarket: Php89.50 & retail wet market: Php95.00
@@ -35,7 +48,6 @@
 - To mitigate the effects of low sugar supply in the domestic market, the government has authorized the first import program for CY 2021-2022 or the importation of 200,000 metric tons of refined sugar for industrial users.
 - The SRA issued Sugar Order No. 3, Series of 2022 for the guidelines of this importation program.
 - The implementation of this SO is on-going and as of August 8, 2022, a total of 170,659 metric tons of imported sugar has already arrived in the country.
-
 
 ## What are the government’s (SRA) interventions to improve production of sugar in the next cropping seasons?
 

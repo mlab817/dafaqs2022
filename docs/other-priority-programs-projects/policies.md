@@ -1,5 +1,14 @@
 ---
+title: DA Policies for Various Agri-Fishery Concerns
+slug: da-policies-for-various-agri-fishery-concerns
 sidebar_position: 33
+tags:
+ - policies
+ - fertilizer
+ - sugar
+ - pork
+ - importation
+ - smuggling
 ---
 
 # DA Policies for Various Agri-Fishery Concerns

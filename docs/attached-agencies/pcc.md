@@ -1,8 +1,15 @@
 ---
+title: Philippine Carabao Center
+slug: philippine-carabao-center
 sidebar_position: 5
+tags:
+  - pcc
+  - carabao
+  - milk feeding program
+  - sagip saka
 ---
 
-# Philippine Carabao Center
+# Philippine Carabao Center (PCC)
 
 ## Why is the implementation of the Milk Feeding Program (MFP) good for only 20-50 days instead of the 120 days as provided by the law?
 

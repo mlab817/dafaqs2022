@@ -1,8 +1,17 @@
 ---
+title: Rice Competitiveness Enhancement Fund
+slug: rice-competitiveness-enhancement-fund
 sidebar_position: 2
+tags:
+  - rcef
+  - rice
+  - competitiveness
+  - rapid assessment
+  - no duplication
+  - status
 ---
 
-# Rice Competitiveness Enhancement Fund
+# Rice Competitiveness Enhancement Fund (RCEF)
 
 ## What is the status of RCEF program implementation?
 

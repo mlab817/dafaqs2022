@@ -1,6 +1,6 @@
 ---
 title: Coco Levy Fund
-slug: /coco-levy-fund
+slug: coco-levy-fund
 sidebar_position: 3
 tags:
   - coconut

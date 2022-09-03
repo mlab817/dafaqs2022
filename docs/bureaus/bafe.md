@@ -1,5 +1,18 @@
 ---
+title: Bureau of Agriculture and Fisheries Engineering
+slug: /bureaus/bureau-of-agricultural-and-fisheries-engineering
 sidebar_position: 10
+tags:
+  - bafe
+  - engineering
+  - abemis
+  - machineries
+  - fsp
+  - fsc
+  - afmesc
+  - renewable energy
+  - repafs
+  - mandanas
 ---
 
 # Bureau of Agricultural and Fisheries Engineering (BAFE)
@@ -23,8 +36,7 @@ sidebar_position: 10
   - Republic Act (RA) No. 10601 “Agricultural and Fisheries Mechanization Act of 2013” Section 9;
   - Administrative Order No. 15 Series of 2020 “Promoting and Supporting the Establishment, Operation, Maintenance and Management of Agri-fishery Machinery and Equipment Service Centers” Section 6; and
   - Memorandum Order No. 37 Series of 2020, “Implementing Guidelines in the Establishment and Operation of Agricultural and Fisheries Mechanization Act of 2013” Section 2.
-
-
+  
 ## What is the difference of AFMESCs to private farms service providers?
 
 - Most private farm service providers are only offering rental of agricultural machineries such as tractors, rice transplanters, combine harvesters (rice, corn), dryers (mechanical dryer, flat-bed dryer, multipurpose drying pavement), and rice/ corn mill. The AFMESCs will also offer the following services:

@@ -1,4 +1,6 @@
 ---
+title: Damages to Agriculture and Fisheries
+slug: damages-to-agriculture-and-fisheries
 sidebar_position: 4
 tags:
   - damage

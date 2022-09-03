@@ -1,5 +1,10 @@
 ---
+title: DA GAD Initiatives
+slug: da-gad-initiatives
 sidebar_position: 22
+tags:
+ - gad
+ - gesi
 ---
 
 # DA GAD Initiatives

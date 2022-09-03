@@ -1,8 +1,12 @@
 ---
+title: Special Area for Agricultural Development (SAAD)
+slug: special-area-for-agricultural-development-saad
 sidebar_position: 15
+tags:
+ - saad
 ---
 
-# Special Area for Agricultural Development
+# Special Area for Agricultural Development (SAAD)
 
 
 ## What are the criteria for SAAD Phase 2 selection of municipalities?

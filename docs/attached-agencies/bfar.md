@@ -1,8 +1,18 @@
 ---
+title: Bureau of Fisheries and Aquatic Resources
+slug: bureau-of-fisheries-and-aquatic-resources
 sidebar_position: 9
+tags:
+  - bfar
+  - oplanisda
+  - fisheries
+  - importation
+  - spsic
+  - west philippine sea
+  - hatcheries
 ---
 
-# Bureau of Fisheries and Aquatic Resources
+# Bureau of Fisheries and Aquatic Resources (BFAR)
 
 ## What is the status of OplanISDA?
 

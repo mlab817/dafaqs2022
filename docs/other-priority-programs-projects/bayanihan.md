@@ -1,5 +1,9 @@
 ---
+title: Status of Bayanihan II Implementation
+slug: status-of-bayanihan-ii-implementation
 sidebar_position: 20
+tags:
+ - bayanihan 2
 ---
 
 # Status of Bayanihan II Implementation
@@ -20,13 +24,13 @@ sidebar_position: 20
 
 - As of July 2022, the following is the breakdown of the projects with its reported percentage completion
 
-Number of Projects  | % Completed
-|:------------:|:-------------:|
-28  | 100%
-10  | 90-99%
-8  | 80-89%
-6 | < 80%
-2  | Not implemented
+Number of Projects  | % Completed       |
+|:-----------------:|:-----------------:|
+| 28                | 100%              |
+| 10                | 90-99%            |
+| 8                 | 80-89%            |
+| 6                 | < 80%             |
+| 2                 | Not implemented   |
 
 - Most of the projects and activities that have not been implemented are due to multiple failed biddings and lack of suppliers causing delay and eventually reaching the lapsing of the fund.
 - Other challenges encountered included the delayed delivery of equipment, and the short period of project implementation especially to infrastructure projects.

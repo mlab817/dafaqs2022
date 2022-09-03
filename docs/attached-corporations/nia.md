@@ -1,8 +1,16 @@
 ---
-sidebar_position: 5
+title: National Irrigation Administration
+slug: national-irrigation-administration
+sidebar_position: 3
+tags:
+  - nia
+  - irrigation
+  - irrigation masterplan
+  - free irrigation
+  - flagship projects
 ---
 
-# National Irrigation Administration
+# National Irrigation Administration (NIA)
 
 ## What is the status of irrigation development in the Philippines?
 
@@ -46,34 +54,13 @@ sidebar_position: 5
 - From these figures:
   - 666,156 farmers served by NIS cultivating an aggregate area of 768,336.20 hectares.
   - 380,977 farmers served by CISs cultivating an aggregate area of 445,962.21 hectares.
-
-
+  
 ## What is the status of NIA flagship projects?
 
-Balog-Balog Multipurpose Project Phase II
-Implementation Schedule: 2013-2025
-Location: Tarlac
-Target Area: 17,890 ha
-Accomplishment: 52.68%  
-Jalaur River Multipurpose Project Stage II (JRMP II)
-Implementation Schedule: 2013-2025
-Location: Iloilo
-Target Area: New: 9,500 ha, Rehab: 22,340 ha
-Farmer Beneficiaries: New: 7,106 farmers, Rehab: 18,782 farmers
-Accomplishment: 41.87%
-Malitubog – Maridagao Irrigation Project Stage II
-Implementation Schedule: 2012-2022
-Location: Maguindanao and North Cotabato
-Target Area: 9,784 ha
-Accomplishment: 81.68%
-Lower Agno River Irrigation System Improvement Project
-Implementation Schedule: 2018-2022
-Location: Pangasinan, Tarlac, Nueva Ecija
-Target Area: New: 7, 519 ha, Restored: 1, 786 ha
-Accomplishment: 82.95%  
-Chico River Pump Irrigation Project (CRPIP)
-Implementation Schedule: 2017-2022
-Location: Cagayan
-Target Area: New: 8,700 ha
-Farmer Beneficiaries: 4,350 farmers
-Accomplishment: 86.53%
+| Project                                 | Implementation Schedule | Location | Target Area | Farmer Beneficiaries | Accomplishment |
+|:---------------------------------------:|:-----------------------:|:--------:|:-----------:|:--------------------:|:--------------:|
+|Balog-Balog Multipurpose Project Phase II| 2013-2025               | Tarlac   | 17,890 ha   |                      | 52.68%         |  
+Jalaur River Multipurpose Project Stage II (JRMP II) | 2013-2025  | Iloilo  | New: 9,500 ha, Rehab: 22,340 ha  | New: 7,106 farmers, Rehab: 18,782 farmers  | 41.87%
+Malitubog – Maridagao Irrigation Project Stage II | 2012-2022 | Maguindanao and North Cotabato | 9,784 ha | | 81.68%
+Lower Agno River Irrigation System Improvement Project | 2018-2022 | Pangasinan, Tarlac, Nueva Ecija | New: 7, 519 ha, Restored: 1, 786 ha | | 82.95%  
+Chico River Pump Irrigation Project (CRPIP) | 2017-2022  | Cagayan  | New: 8,700 ha  | 4,350 farmers  | 86.53%

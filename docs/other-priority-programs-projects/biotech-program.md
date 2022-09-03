@@ -1,5 +1,11 @@
 ---
+title: Biotechnology Program
+slug: biotechnology-program
 sidebar_position: 29
+tags:
+ - biotech
+ - gmo
+ - bt corn
 ---
 
 # Biotechnology Program 

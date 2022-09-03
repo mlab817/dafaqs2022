@@ -1,5 +1,15 @@
 ---
+title: National Meat Inspection Service
+slug: national-meat-inspection-service
 sidebar_position: 4
+tags:
+  - nmis
+  - meat
+  - food safety
+  - bocha
+  - accreditation
+  - quarantine
+  - disease
 ---
 
 # National Meat Inspection Service

@@ -1,5 +1,12 @@
 ---
+title: Minimum Access Volume
+slug: minimum-access-volume
 sidebar_position: 25
+tags:
+ - mav
+ - importation
+ - mav plus
+ - utilization
 ---
 
 # Minimum Access Volume

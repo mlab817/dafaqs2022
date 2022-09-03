@@ -1,5 +1,10 @@
 ---
+title: Mindanao Concerns
+slug: mindanao-concerns
 sidebar_position: 34
+tags:
+ - mindanao
+ - barmm
 ---
 
 # Mindanao Concerns 

@@ -1,5 +1,10 @@
 ---
+title: Young Farmers Challenge Fund (YFC)
+slug: young-farmers-challenge-fund-yfc
 sidebar_position: 31
+tags: 
+ - yfc
+ - youth
 ---
 
 # Young Farmers Challenge Fund (YFC) 

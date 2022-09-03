@@ -1,8 +1,22 @@
 ---
+title: Agricultural Training Institute
+slug: /bureaus/agricultural-training-institute
 sidebar_position: 1
+tags:
+  - ati
+  - training
+  - extension
+  - capacity building
+  - capability enhancement
+  - internship
+  - binhi ng pag-asa
+  - e-extension
+  - youth
+  - learning sites
+  - lsa
 ---
 
-# Agricultural Training Institute
+# Agricultural Training Institute (ATI)
 
 ## What are the programs, projects, and activities of the ATI for youth?
 
@@ -15,4 +29,4 @@ sidebar_position: 1
 ## What role does Learning Site for Agriculture (LSAs) play in helping improve the A&F sector?
 
 - The certification of LSA aims to contribute to the improvement in productivity and profitability of the less developed but resource-rich farming/fishing communities and the non-farming rural community members engaged in agri-processing enterprises by harnessing their full potential.
-- As of August 2022, a total of 1,597 LSAs were certified since 2016. 
+- As of August 2022, a total of __1,597 LSAs__ were certified since 2016. 

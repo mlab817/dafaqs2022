@@ -1,5 +1,11 @@
 ---
+title: Agricultural Competitiveness Enhancement Fund
+slug: agricultural-competitiveness-enhancement-fund
 sidebar_position: 1
+tags:
+  - acef
+  - credit
+  - status
 ---
 
 # Agricultural Competitiveness Enhancement Fund
@@ -15,11 +21,9 @@ sidebar_position: 1
 
 ## What is the status of ACEF Funds?
 
-- As of June 2022, LBP released PHP 6.073 billion of credit extended to 59,509 qualified applicants.
+- As of June 2022, LBP released __PHP 6.073 billion__ of credit extended to 59,509 qualified applicants.
 - From the 59,509 debtors, 59,703 are individual farmers/fisherfolks, 272 MSMEs, and 164 cooperatives and farmers associations.
 - The Bureau of Agricultural Research (DA-BAR) released PHP 470 million from 2018-2021 intended for research and development projects.
 - From this, 94 projects were funded, originating from 40 SUCs.
-- As of June 2022, a total of PHP 2.85 billion is still available in the fund for utilization starting 2023 onwards. 
-
-
+- As of June 2022, a total of __PHP 2.85 billion__ is still available in the fund for utilization starting 2023 onwards. 
 

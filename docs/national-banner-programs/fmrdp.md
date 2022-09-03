@@ -1,5 +1,10 @@
 ---
+title: Farm-to-Market Road Development Program
+slug: farm-to-market-road-development-program
 sidebar_position: 7
+tags:
+  - fmrdp
+  - fmr
 ---
 
 # Farm-to-Market Road Development Program
@@ -20,26 +25,26 @@ sidebar_position: 7
 
 ## What is the proposed total amount of FMRs for FY 2023?
 
-- The proposed amount of FMRs for FY 2023 is  PhP13,148,500,000.00.
+- The proposed amount of FMRs for FY 2023 is  PhP 13,148,500,000.00.
 - Regional breakdown are as follows:
 
-| Region    | Budget (PhP)  |
-|:----------|--------------:|
-| CAR       | 488,000,000.00 |
-| Region I  | 1,865,100,000.00 |
-| Region II | 804,500,000.00 |
-| Region III | 1,114,500,000.00 |
-| Region IV-A | 758,700,000.00 |
-| Region IV-B | 674,900,000.00 |
-| Region V | 1,674,000,000.00 |
-| Region VI | 897,000,000.00 |
-| Region VII | 790,000,000.00 |
-| Region VIII| 1,419,840,000.00 |
-| Region IX | 467,960,000.00 |
-| Region X | 705,000,000.00 |
-| Region XI | 565,000,000.00 |
-| Region XII | 417,000,000.00 |
-| Region XIII| 507,000,000.00 |
+| Region        | Budget (PhP)    |
+|:--------------|----------------:|
+| CAR           | 488,000,000.00  |
+| Region I      | 1,865,100,000.00|
+| Region II     | 804,500,000.00  |
+| Region III    | 1,114,500,000.00|
+| Region IV-A   | 758,700,000.00  |
+| Region IV-B   | 674,900,000.00  |
+| Region V      | 1,674,000,000.00|
+| Region VI     | 897,000,000.00  |
+| Region VII    | 790,000,000.00  |
+| Region VIII   | 1,419,840,000.00|
+| Region IX     | 467,960,000.00  |
+| Region X      | 705,000,000.00  |
+| Region XI     | 565,000,000.00  |
+| Region XII    | 417,000,000.00  |
+| Region XIII   | 507,000,000.00  |
 
 ## What is the justification to retain FMR construction in the DA with the implementation of the Mandanas-Garcia Ruling?
 

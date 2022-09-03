@@ -1,7 +1,13 @@
 ---
+title: Mindanao Inclusive Agriculture Development Project (MIADP)
+slug: mindanao-inclusive-agriculture-development-project-miadp
 sidebar_position: 19
+tags:
+ - miadp
+ - indigeneous people
+ - mindanao
+ - world bank
 ---
-
 
 # Mindanao Inclusive Agriculture Development Project (MIADP)
 

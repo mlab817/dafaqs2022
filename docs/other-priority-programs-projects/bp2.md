@@ -1,5 +1,9 @@
 ---
+title: Balik-Probinsiya, Bagong Pag-Asa (Bp2) Program
+slug: balik-probinsiya-bagong-pag-asa-bp2-program
 sidebar_position: 30
+tags:
+ - bp2
 ---
 
 # Balik-Probinsiya, Bagong Pag-Asa (Bp2) Program

@@ -1,8 +1,15 @@
 ---
+title: Fertilizer and Pesticide Authority
+slug: fertilizer-and-pesticide-authority
 sidebar_position: 2
+tags:
+  - fpa
+  - fertilizer
+  - pesticide
+  - fake fertilizer
 ---
 
-# Fertilizer and Pesticide Authority
+# Fertilizer and Pesticide Authority (FPA)
 
 ## Why are fertilizer prices high?
 

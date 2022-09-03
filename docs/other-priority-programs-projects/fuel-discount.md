@@ -1,5 +1,9 @@
 ---
+title: Fuel Discount Program For Farmers and Fisherfolks
+slug: fuel-discount-program-for-farmers-and-fisherfolks
 sidebar_position: 9
+tags:
+ - fuel discount
 ---
 
 # Fuel Discount Program For Farmers and Fisherfolks 
@@ -23,9 +27,9 @@ sidebar_position: 9
 ## What is the status of the Program?
 
 - As of August 17, 2022, 131,145 fuel discount accounts have already been created nationwide.
-  - Of these, 120,827 accounts were loaded with Php380,605,050-worth of fuel discount disbursed in the accounts of eligible beneficiaries.
+  - Of these, 120,827 accounts were loaded with PhP 380,605,050-worth of fuel discount disbursed in the accounts of eligible beneficiaries.
 - For the fishery sector, there are already 68,855 created accounts, 68,256 of which have been loaded with a total of Php 215,006,400.00.
-- For corn, 61,290 accounts have been created, 54,407 of which were loaded amounting to Php 171,382,050.00.
+- For corn, 61,290 accounts have been created, 54,407 of which were loaded amounting to PhP 171,382,050.00.
 - A total of  42,084 fuel discount cards, meanwhile, have been distributed nationwide for 26,318 fisherfolk and 15,766 corn farmers.
 
 

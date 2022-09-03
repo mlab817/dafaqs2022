@@ -1,5 +1,12 @@
 ---
+title: Price Monitoring
+slug: price-monitoring
 sidebar_position: 8
+tags:
+ - price monitoring
+ - smeg
+ - amas
+ - bantay presyo
 ---
 # Price Monitoring
 

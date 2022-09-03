@@ -1,8 +1,14 @@
 ---
+title: Updating	of the Registry System for Basic Sectors in Agriculture
+slug: updating-of-the-registry-system-for-basic-sectors-in-agriculture-rsbsa
 sidebar_position: 21
+tags:
+ - rsbsa
+ - fishr
+ - ncfrs
 ---
 
-# Updating	of the Registry System for Basic Sectors	 in Agriculture
+# Updating	of the Registry System for Basic Sectors in Agriculture (RSBSA)
 
 
 ## How many farmers/ farm workers/ fisherfolk are already registered in the RSBSA?

@@ -1,5 +1,13 @@
 ---
+title: DA 4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo)
+slug: da-4ks-kabuhayan-at-kaunlaran-ng-kababayang-katutubo-program
 sidebar_position: 2
+tags:
+  - 4ks
+  - katutubo
+  - indigenous people
+  - miadp
+  - ncip
 ---
 
 # DA 4Ks (Kabuhayan at Kaunlaran ng Kababayang Katutubo) Program

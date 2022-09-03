@@ -1,16 +1,23 @@
 ---
+title: National Food Authority
+slug: national-food-authority
 sidebar_position: 2
+tags:
+  - nfa
+  - buffer stock
+  - palay procurement
+  - optimal level
+  - 6-3 policy
 ---
 
-# National Food Authority
+# National Food Authority (NFA)
 
 ## What is the NFA’s present level of buffer stock?
 
 - As of 4 August 2022, the NFA’s rice buffer stock is at 130,114 MT.
-- This is short by 169,886 MT vis-a-vis the mandated 300,000 MT rice buffer stock that shall be maintained at any given time.
+- This is short by 169,886 MT vis-à-vis the mandated 300,000 MT rice buffer stock that shall be maintained at any given time.
 - This level of inventory is equivalent to 191 days’ supply or a total of six (6) months.
 - However, this inventory could only last for a period of four (4) days’ supply when based on the daily consumption requirement (DCR) of 33,586 MT.
-
 
 ## What was NFA’s accomplishment for its palay procurement target for the first semester of CY 2022?
 

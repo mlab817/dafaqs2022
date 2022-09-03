@@ -1,28 +1,40 @@
 ---
+title: Bureau of Plant Industry
+slug: /bureaus/bureau-of-plant-industry
 sidebar_position: 6
+tags:
+  - bpi
+  - importation
+  - rice
+  - onion
+  - yellow onion
+  - red onion
+  - garlic
+  - smuggling
+  - spsic
 ---
 
-# Bureau of Plant Industry
+# Bureau of Plant Industry (BPI)
 
 ## What are the updates on the importation of rice, garlic and onion?
 
 ### Rice
 
-- As of August 4, 2022, a total of 2,358,658 metric tons (MT) of imported rice arrived in the country from the Sanitary and Phytosanitary Import Clearance (SPSIC) issued this year and last year, and from those who invoked the provisions of the Rice Tariffication Law (RTL).
+- As of August 4, 2022, a total of __2,358,658 metric tons__ (MT) of imported rice arrived in the country from the Sanitary and Phytosanitary Import Clearance (SPSIC) issued this year and last year, and from those who invoked the provisions of the Rice Tariffication Law (RTL).
 - From the 448 approved SPSICs, only 7.8 % (or 35 clearances) were used for the 1st semester of 2022. There were also 1,310 SPSICs used that were issued in the last quarter of 2021. In addition, there have been import arrivals totalling 857,272 MT recorded by importers who have invoked the RTL provisions.
 - The 1,934,976 MT of imported rice that arrived in the 1st semester of 2022 is higher compared to the 1,260,542 MT recorded arrival from the same period last year.
 - Similarly, the total number of SPSICs used in the 1st semester period increased from 1,304 in 2021 to 1,345 in 2022.
-- The average prevailing price of imported well-milled rice for the 1st semester of 2022 was Php 41, lower by 12.77% compared to the Php 47 in the same period last year.
-
-### Onion
-
-- As of August 4, 2022, a total volume of 7,921.737 MT of fresh yellow onion (covered by the SPSIC issuance from Sept. 29 to Nov. 1, 2021), and 21,785.784 MT of fresh red onion (from the SPSIC issuance from Nov. 27-30, 2021) have been imported in the country.
+- The average prevailing price of imported well-milled rice for the 1st semester of 2022 was Php 41/kg, lower by 12.77% compared to the Php 47/kg in the same period last year.
 
 ### Garlic
 
 - As of August 4, 2022, a total of 2,513 SPSICs were issued by BPI for the importation of garlic.
 - From these SPSICs, only 54.20% (or 1,362 clearances) were used for the 1st semester of 2022.
-- The country has imported a total of 57,246 MT garlic, or 45.78% of the total 125,054 MT expected volume as per applied SPSICs.
+- The country has imported a total of __57,246 MT garlic__, or 45.78% of the total 125,054 MT expected volume as per applied SPSICs.
+
+### Onion
+
+- As of August 4, 2022, a total volume of __7,921.737 MT of fresh yellow onion__ (covered by the SPSIC issuance from Sept. 29 to Nov. 1, 2021), and __21,785.784 MT of fresh red onion__ (from the SPSIC issuance from Nov. 27-30, 2021) have been imported in the country.
 
 ## What are the future plans of BPI to address smuggling of agricultural goods?
 

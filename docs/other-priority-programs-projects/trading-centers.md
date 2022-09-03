@@ -1,5 +1,11 @@
 ---
+title: Trading Centers
+slug: trading-centers
 sidebar_position: 5
+tags:
+ - APTC
+ - kadiwa
+ - mandanas
 ---
 
 # Trading Centers

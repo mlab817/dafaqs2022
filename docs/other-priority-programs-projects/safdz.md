@@ -1,5 +1,10 @@
 ---
+title: Strategic Agriculture and Fisheries Development Zone (SAFDZ)
+slug: strategic-agriculture-and-fisheries-development-zone-safdz
 sidebar_position: 23
+tags:
+- safdz
+- mapping
 ---
 
 # Strategic Agriculture and Fisheries Development Zone (SAFDZ)

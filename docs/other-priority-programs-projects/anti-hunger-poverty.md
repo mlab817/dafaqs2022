@@ -1,5 +1,13 @@
 ---
+title: Status of Anti-Hunger and Poverty Programs
+slug: status-of-anti-hunger-and-poverty-programs
 sidebar_position: 35
+tags:
+ - anti-hunger and poverty
+ - ra 11037
+ - gatasang kalabaw
+ - gulay sa paaralan
+ - milk feeding program
 ---
 
 # Status of Anti-Hunger and Poverty Programs 

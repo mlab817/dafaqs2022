@@ -1,8 +1,14 @@
 ---
+title: Halal Food Industry Development Program
+slug: halal-food-industry-development-program
 sidebar_position: 5
+tags:
+  - halal
+  - halal accreditation
+  - halal certification
 ---
 
-# Halal Food Industry Development Program
+# Halal Food Industry Development Program (HFIDP)
 
 ## What is the Status of the Halal Food Industry Development Program (HFIDP)?
 
@@ -15,6 +21,14 @@ sidebar_position: 5
   
 ## What is the participation of the program in Halal Accreditation and Certification in the Philippines?
 
+- Halal Certification for products, services and establishments are acquired from private Halal Certifying Bodies (HCB’s) that are accredited by either Department of Trade and Industry – Philippine Accreditation Bureau (DTI-PAB) if the products are for export, or by National Commission on Muslim Filipinos (NCMF) if it is for local distribution.
+- The DA Halal Program provides technical and other related assistance to Farm operators and other Halal Practitioners through its project “DA-Assisted Halal Farms”.
+- The Halal Program is currently revising the implementing guidelines for the following Philippine National Standards (PNS) standards serves as guide for the farmers in ensuring that their produce are Halal-compliant:
+  - Philippine National Standards on Halal Feeds (PNS 139);
+  - Halal Agriculture and Fisheries Products (PNS 101);
+  - Halal Slaughtering Practice for Ruminants (PNS 102); and
+  - Halal Slaughtering Practice for Poultry (PNS 103).
+- The Halal Program will be developing the Halal Food Traceability System in collaboration with the other government agencies that are involved in Food, Drugs, Feeds and Animal Nutrients, Fertilizers and Pesticides.
 
 
 ## What are the strategies of the HFIDP in order to be engaged in halal product exportation in the global market?

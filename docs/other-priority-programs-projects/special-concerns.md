@@ -1,5 +1,12 @@
 ---
+title: DA Special Concerns
+slug: da-special-concerns
 sidebar_position: 24
+tags:
+ - special concerns
+ - elcac
+ - youth
+ - senior citizens
 ---
 
 # DA Special Concerns

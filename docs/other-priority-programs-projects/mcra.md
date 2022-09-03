@@ -1,5 +1,14 @@
 ---
+title: Mainstreaming of Climate-Resilient Agriculture
+slug: mainstreaming-of-climate-resilient-agriculture
 sidebar_position: 10
+tags:
+ - climate-resilient agriculture
+ - amia
+ - mainstreaming
+ - climate change
+ - early warning
+ - research
 ---
 
 # Mainstreaming of Climate-Resilient Agriculture

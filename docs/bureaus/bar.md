@@ -1,8 +1,16 @@
 ---
+title: Bureau of Agricultural Research
+slug: /bureaus/bureau-of-agricultural-research
 sidebar_position: 4
+tags:
+  - bar
+  - research
+  - r4d
+  - technology
+  - mandanas
 ---
 
-# Bureau of Agricultural Research
+# Bureau of Agricultural Research (BAR)
 
 ## What is the Department’s level of R4D investment for the last 10 years?
 

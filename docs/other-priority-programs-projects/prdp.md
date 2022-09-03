@@ -1,5 +1,10 @@
 ---
+title: Philippine Rural Development Project
+slug: philippine-rural-development-project
 sidebar_position: 14
+tags:
+ - prdp
+ - mainstreaming
 ---
 
 # Philippine Rural Development Project

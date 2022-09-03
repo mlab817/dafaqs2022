@@ -1,5 +1,15 @@
 ---
+title: Digital Agriculture and National Information Network
+slug: digital-agriculture-and-national-information-network
 sidebar_position: 12
+tags:
+ - digital agriculture
+ - national information network
+ - rsbsa
+ - ucas
+ - vmp
+ - ffedis
+ - price monitoring
 ---
 
 # Digital Agriculture and National Information Network
@@ -12,7 +22,7 @@ sidebar_position: 12
 - This strategic proposal is encapsulated in thematic framework dubbed as “SMART-AGRI” ( 1) Seamless interconnectivity and IOTs, 2) Mainstreaming of multi-platform technologies in Disaster Risk Reduction & Management (DRRM), Climate Change Adaptation (CCA), 3) Agribusiness links and networks, 4) Real-time access to information and apps, 5) Transparent governance 6) Alignment of ICT initiatives in DA operational processes, 7) Geo-databasing of agricultural resources and interventions, 8) Risk management of ICT resources and services, and 9) Inter-operable systems for ease of doing business.)
 
 
-## What are the  priority programs in to digital agriculture?
+## What are the priority programs in to digital agriculture?
 
 ### Updating of the Registry System for Basic Sectors in Agriculture (RSBSA) through the Farmers and Fisherfolk Registry System (FFRS)
   - This project aims to create a centralized and nationwide farmers and fisherfolk database supporting various levels of planning, decision-making, and delivery of interventions for the DA.

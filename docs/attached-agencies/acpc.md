@@ -1,8 +1,15 @@
 ---
+title: Agricultural Credit Policy Council
+slug: agricultural-credit-policy-council
 sidebar_position: 1
+tags:
+  - acpc
+  - credit
+  - constraints
+  - ra 11901
 ---
 
-# Agricultural Credit Policy Council
+# Agricultural Credit Policy Council (ACPC)
 
 ## What are the problems faced by farmers in accessing loans?
 

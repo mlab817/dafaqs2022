@@ -1,9 +1,17 @@
 ---
+title: Philippine Center for Postharvest Development and Mechanization
+slug: philippine-center-for-postharvest-development-and-mechanization
 sidebar_position: 7
+tags:
+  - philmech
+  - mechanization
+  - climate change
+  - ra 10601
+  - research
 ---
 
 
-# Philippine Center for Postharvest Development and Mechanization
+# Philippine Center for Postharvest Development and Mechanization (PHilMech)
 
 ## What are the efforts of PhilMech that will contribute to the socioeconomic agenda of the Marcos, Jr. administration?
 

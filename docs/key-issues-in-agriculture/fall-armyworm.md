@@ -1,4 +1,6 @@
 ---
+title: Fall Armyworm
+slug: fall-armyworm
 sidebar_position: 5
 tags:
   - faw
@@ -6,7 +8,7 @@ tags:
   - damage
 ---
 
-# Fall Armyworm
+# Fall Armyworm (FAW)
 
 ## How much damage was caused by FAW to corn areas?
 
