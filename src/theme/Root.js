@@ -1,41 +1,64 @@
-import React, {Fragment, useState} from 'react'
-import {auth, signInWithGoogle} from './firebase.utils'
-import './Root.css'
+import React, {useState} from 'react';
+import {signInWithGoogle, logout, auth, signInAuthWithEmailAndPassword} from './firebase';
+import '../css/login.css';
+import Loading from './Loading';
+import {GoogleOutlined} from "@ant-design/icons";
 
-export default function Root({ children }) {
-  const [userAuth, setUserAuth] = useState(null)
-  const [authLoading, setAuthLoading] = useState(false)
+// Default implementation, that you can customize
+export default function Root({children}) {
+  const [userAuth, setUserAuth] = useState(null);
+  const [authLoading, setAuthLoading] = useState(true);
 
-  auth.onAuthStateChanged(user => {
+  const [password, setPassword] = useState('')
+
+  auth.onAuthStateChanged(async function(user) {
     if (user !== null) {
-      setUserAuth(user)
+      setUserAuth(user);
     }
 
-    setAuthLoading(false)
-  }, error => {
-    console.error(error)
-  })
+    setAuthLoading(false);
+  });
 
-  const isAllowed = () => userAuth?.email
+  const isAllow = () => {
+    return userAuth?.email;
+  };
+
+  const onChange = ({ target: { name, value }}) => {
+    setPassword(prevState => value)
+  }
+
+  const handleLogin = async () => {
+    if (!password) {
+      alert('Enter PIN code')
+      return
+    }
+
+    await signInAuthWithEmailAndPassword(password)
+  }
 
   if (authLoading) {
-    return <div>Loading...</div>
+    return (
+      <>
+        <Loading />
+        <div style={{display: 'none'}}>{children}</div>
+      </>
+    );
   }
 
   return (
-    <Fragment>
-      {isAllowed()
-      ? children
-      : <div className="login">
+    <React.Fragment>
+      {isAllow() ? (
+        <>{children}</>
+      ) : (
+        <div className="login">
           <div className="login__container">
-            <h1>Sign in to use the DA-FAQs 2022 App</h1>
-            <div>
-              <button className="login__btn login__google" onClick={signInWithGoogle}>
-                Sign in with Google
-              </button>
-            </div>
+            <input type='password' name='password' className='password_input' placeholder='PIN Code' onChange={onChange} />
+            <button className='login__btn login__google' type='primary' onClick={handleLogin}>
+              <GoogleOutlined /> Login with Google
+            </button>
           </div>
-        </div>}
-    </Fragment>
-  )
+        </div>
+      )}
+    </React.Fragment>
+  );
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import ColorModeToggle from '@theme-original/ColorModeToggle';
-import {logout} from '../firebase.utils';
+import {logout} from '../firebase';
 
 export default function ColorModeToggleWrapper(props) {
   return (
