@@ -36,7 +36,7 @@ tags:
 
 <p align="center">
 <img width="330" alt="status of asf per region" src="https://user-images.githubusercontent.com/29625844/189459528-dafd5e5e-04e2-4a3f-a49d-e8ee56b06d1c.png">
-</div>
+</p>
 
 ## What are the alternative livelihoods for the ASF-affected farmers?
 
