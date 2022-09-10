@@ -35,7 +35,7 @@ tags:
 - A total amount of PhP 1,978,239,000.00 worth of indemnification payment was distributed to 52,052 hog raisers from 401,937 hogs culled nationwide as of 13 June 2022 (refer to the table in the next slide for regional disaggregation).
 
 <p align="center">
-<img width="330" alt="status of asf per region" src="https://user-images.githubusercontent.com/29625844/189459528-dafd5e5e-04e2-4a3f-a49d-e8ee56b06d1c.png">
+<img width="330" alt="status of asf per region" src="https://user-images.githubusercontent.com/29625844/189459528-dafd5e5e-04e2-4a3f-a49d-e8ee56b06d1c.png" />
 </p>
 
 ## What are the alternative livelihoods for the ASF-affected farmers?
