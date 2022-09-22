@@ -31,7 +31,7 @@ Table 1. Value of Damages to the agri-fishery sector from 2015 to June 2022:
 - For FY 2022, PhP 1 billion of QRF was appropriated for the DA.
   - By March, about 99.98% had been allocated for Typhoon Odette across eight (8) regions.
   - From this, the Department requested for the replenishment of the QRF and was granted another PhP 1 billion.
-  - Table 2 in the next slide details the fund releases from the FY 2022 QRF as of July 31.
+  - Table 2 details the fund releases from the FY 2022 QRF as of July 31.
 
 Table 2. FY 2022 Quick Response Fund (QRF) releases as of July 2022:
 ![img_9.png](img_9.png)

@@ -1,0 +1,9 @@
+{
+    "index_name": "da-faqs",
+    "start_urls": ["https://da-faqs2022.web.app/docs"],
+    "selectors": {
+      "lvl0": ".markdown h1",
+      "lvl1": ".markdown h2",
+      "text": ".markdown ul,.markdown li"
+    }
+  }

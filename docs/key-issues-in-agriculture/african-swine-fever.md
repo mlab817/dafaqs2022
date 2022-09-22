@@ -25,8 +25,8 @@ tags:
 ## What is the government strategy in managing, containing, and controlling the ASF?
 
 - 1-7-10 Protocol - used in controlling the spread of ASF in an area proven to have the disease infection (as supported by laboratory evidence). The protocol establishes the following:
-  - <ul>Quarantine zone</ul> - an area set within 1 km radius from the infected farm to contain infection by limiting animal movement and employing mandatory test and culling of all infected animals;
-  - <ul>Surveillance zone</ul> - an area set within 7 km radius to detect the extent of the infection through surveillance activities and disease reporting, and to limit the movement of live animals, animal products, and by-products. Every movement outside this zone requires veterinary health certificates and shipping permits; and
+  - <u>Quarantine zone</u> - an area set within 1 km radius from the infected farm to contain infection by limiting animal movement and employing mandatory test and culling of all infected animals;
+  - <u>Surveillance zone</u> - an area set within 7 km radius to detect the extent of the infection through surveillance activities and disease reporting, and to limit the movement of live animals, animal products, and by-products. Every movement outside this zone requires veterinary health certificates and shipping permits; and
   - <u>Control zone</u> - an area set at 10 km radius to detect infection at an early stage through mandatory disease reporting.
 - Control measures done in the affected areas wherein suspected pigs with disease are culled, removed, buried, and disinfected.
 - Disposal of the dead and sick pigs - the Provincial Veterinary Office and Local ASF Task Force identify the sites, then excavate, bury, and disinfect the burial grounds.

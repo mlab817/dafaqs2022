@@ -43,7 +43,7 @@ tags:
   - **Upgrading and Establishment of Tissue Culture Laboratories (TCLs)** and distribution of planting materials - Three (3) and five (5) TCLs will be upgraded and established, respectively, in Regions XI, CAR, X, and XIII. A total of 767,000 plantlets (good for 383 hectares) will be distributed in fusarium wilt-affected areas, whereas a total of 175,000 cardaba plantlets will be distributed (good for 290 hectares) in areas that will undergo crop shifting;
   - **Establishment of Technology Demonstration Farms** - Twenty-three (23) techno-demo sites were established to showcase Good Agricultural Practices and Integrated Disease and Pest Management Practices (IDPM);
   - **Implemented Quarantine and Mitigating Protocols** - BPI released Special Quarantine Order No. 1, series of 2019 that contains the guidelines on the transport of banana plants and planting materials from Mindanao to Luzon and Visayas Islands. The Regional Crop Protection Center (RCPC) of Davao has likewise developed a protocol for the management of fusarium wilt using Trichoderma Harzianum; and
-  - Provision of Postharvest and Processing Facility and Equipment - The following facilities/ equipment are targeted to be established/ distributed:
+  - **Provision of Postharvest and Processing Facility and Equipment** - The following facilities/ equipment are targeted to be established/ distributed:
     - One (1) Banana Processing Center in San Agustin, Isabela;
     - Two (2) Banana Packaging House Facilities in Guinayangan and Gumaca, Quezon; and
     - Two (2) Vacuum Fryer units in Oriental Mindoro.

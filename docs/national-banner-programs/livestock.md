@@ -39,8 +39,6 @@ Below is the supply-demand outlook for said commodities:
   - Procurement of laboratory equipment, LGU capacitation, animal disease program, and research (PhP 500 million); and
   - Biotechnology, animal health program, and feed resource development (PhP 60 million).
 
-[^1] This includes buffer stocks from FY 2020.
-
 ## What are the interventions provided for farmers affected by ASF, AI, and other Economically Important Diseases? 
 - Aside from strengthening the biosecurity, biosafety, and bio-surveillance measures, the NLP, through its implementing partners in the region, continue to distribute livestock animal through various PAPs to repopulate the decreasing inventory of animals due to ASF, AI, and other EI diseases.
 - As of June 30, 2022, NLP was able to distribute a total of 305,655 livestock animals funded under various programs such as:
@@ -57,3 +55,4 @@ There are also other activities to be carried out once the System is in place an
 - **Review/ revision of existing policies** to help streamline data collection methods.
 Throughout the process, regular meetings with stakeholders will be conducted to be able to consult on issues and concerns on livestock.
 
+[^1] This includes buffer stocks from FY 2020.

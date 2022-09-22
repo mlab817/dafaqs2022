@@ -20,7 +20,8 @@ export default function Root({children}) {
   });
 
   const isAllow = () => {
-    return userAuth?.email;
+    // return userAuth?.email;
+    return true;
   };
 
   const onChange = ({ target: { name, value }}) => {

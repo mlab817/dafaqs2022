@@ -22,17 +22,20 @@ tags:
 ## What is the relevance of the corn and cassava industries in the economy?
 
 - <u>Corn:</u>
+  
   - In 2021, corn accounted for PhP 104.7 billion or 5.90% of the GVA of the Agriculture Sector.
   - White corn serves as staple for about 20% of the country’s total population (mostly in Visayas and Mindanao regions).
   - Yellow corn (which comprise almost 70% of total corn production) is mainly used as raw material for animal feed, accounting for about 50-60% of poultry and livestock mixed feeds.
 
 - <u>Cassava:</u>
+  
   - In 2021, cassava accounted for PhP 19.7 billion or 1.11% of the GVA of the Agriculture Sector.
   - Cassava is mainly used as food and raw material for animal/aqua feeds. This is also processed into starch, flour, alcohol, bioethanol, and other industrial products.
 
 ## What is the FY 2021 production of corn and cassava?
 
 - <u>Corn:</u>
+  
   - In 2021, corn production was estimated at 8.30 million MT – this is the highest production recorded for this crop.
   - The top 5 corn-producing regions are: Cagayan Valley (22.78%), Northern Mindanao (17.53%), BARMM (13.70%), SOCCSKSARGEN (13.32%), and Ilocos Region (6.88%)
 
