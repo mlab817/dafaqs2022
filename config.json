@@ -2,8 +2,19 @@
     "index_name": "da-faqs",
     "start_urls": ["https://da-faqs2022.web.app/docs"],
     "selectors": {
-      "lvl0": ".markdown h1",
-      "lvl1": ".markdown h2",
-      "text": ".markdown ul,.markdown li"
-    }
+      "lvl0": {
+        "selectors": "",
+        "defaultValue": ".menu__link.menu__link--sublist.menu__link--active, .navbar__item.navbar__link--active"
+      },
+      "lvl1": ["header h1", "article h1"],
+      "lvl2": "article h2",
+      "lvl3": "article h3",
+      "lvl4": "article h4",
+      "lvl5": "article h5, article td:first-child",
+      "lvl6": "article h6",
+      "content": "article p, article li, article td:last-child"
+    },
+    "indexHeadings": true,
+    "aggregateContent": true,
+    "recordVersion": 3
   }
