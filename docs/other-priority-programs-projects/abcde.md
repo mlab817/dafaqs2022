@@ -21,10 +21,10 @@ tags:
 
 - Although the goal is for nationwide implementation, the AbCDE will be piloted in selected DA Regional Field Offices (RFOs) and thereafter be subjected to expansion or replication to other RFOs as the project progresses.
 
-## What are the expected foreign interventions to this project?
+## What are the expected foreign interventions in this project?
 
-- Since the AbCDE is a Grant, the donor country will not only provide funding but various support, as well, such as technical assistance from Korean experts, capacity-building, technology adaptation/transfer, and provision of ICT equipment.
+- Since the AbCDE is a Grant, the donor country will not only provide funding but various support, as well, such as technical assistance from Korean experts, capacity-building, technology adaptation/ transfer, and provision of ICT equipment.
 
-## What counterpart will the Government/DA provide for AbCDE?
+## What counterpart will the government/DA provide for AbCDE?
 
-- The DA, through its Information and Communications Technology Service (ICTS), will provide staff complement during the project implementation and facilitate the processing of tax exemption incurred in the provision of ICT equipment.
+- The DA, through its Information and Communications Technology Service (ICTS), will provide staff complement during the project implementation and facilitate the processing of tax exemption incurred in the provision of ICT equipment. 

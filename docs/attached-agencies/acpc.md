@@ -11,34 +11,43 @@ tags:
 
 # Agricultural Credit Policy Council (ACPC)
 
+## What is the latest figure on the number of unbanked farmers and fisherfolk?
+
+- Based on the Registry System for Basic Sectors in Agriculture (RSBSA) 1.0 (year 2012 version) and the list of unbanked municipalities as of March 2022 issued by the Bangko Sentral ng Pilipinas (BSP), there are about 1.47 million small farmers and fisherfolk (SFF) in unbanked municipalities (i.e., municipalities with no bank/ banking office) (refer to the table in the next slide for the regional disaggregation).
+- From 2017 to June 2022, a total of 36,939 SFF in these unbanked municipalities have been provided with PhP 1.05 billion-worth of credit through the ACPC’s Production Loan Easy Access (PLEA), AgriNegosyo (ANYO), Kapital Access for Young Agripreneurs (KAYA), and Survival and Recovery (SURE) Loan Assistance Programs.
+- Number of unbanked small farmers and fishers and those served by the ACPC from 2017 to June 2022:
+
+![unbanked farmers and fishers](Picture1.png)
+
+## How many will be potentially served by ACPC in 2023 vis-a-vis its budget for that year? 
+
+- For FY 2023, ACPC has a credit fund budget amounting to PhP 2.75 billion that may potentially serve a total of 37,250 SFF and 130 agri-fishery-based MSEs.
+- The target SFF includes additional (new) 3,694 SFF in unbanked municipalities (or 10% of total target SFF to be served).
+
+![target farmers and fishers](Picture2.png)
+
 ## What are the problems faced by farmers in accessing loans?
 
-- The following are some of the constraints faced by farmers:
-  - Lender’s limited physical network in rural areas that results in limited knowledge of loan demand of the sector;
-  - Accessibility to banking institutions in rural areas, as per the 2020 State of Agricultural  Finance (ACPC, 2021), 30% of banking offices are in NCR, while 509 municipalities outside NCR are still without a bank office;
-  - Perceived high risks in agriculture because of lack of understanding of agricultural markets and borrowers, and frequent occurrence of weather or natural disasters that exacerbated the lenders’ limited understanding of risk management products and their effectiveness;
-  - Weak financial literacy manifested by farmers’ lack of understanding of products and services of the bank;
-  - High borrowing costs due to distance from the bank; and
-  - Lack of collateral.
-
+- Lender’s limited physical network in rural areas that results in limited knowledge of loan demand of the sector;
+- Accessibility to banking institutions in rural areas;
+- Perceived high risks in agriculture because of lack of understanding of agricultural markets and borrowers, and frequent occurrence of weather or natural disasters that exacerbated the lenders’ limited understanding of risk management products and their effectiveness;
+- Weak financial literacy manifested by farmers’ lack of understanding of products and services of the bank;
+High borrowing costs due to distance from the bank; and
+- Difficulty in complying with loan requirements from formal lending sources/  institutions  such as collateral and other documents.
 
 ## How do we increase small farmer’s access to credit?
 
-- Most of the lending programs for the smallholders in agriculture are implemented by DA, thru ACPC, as well as the Department of Agrarian Reform (DAR).
-- These programs provide loans at preferential (subsidized or lower than market) interest rate loans to smallholder farmers and fishers (SFF) including ARBs and micro and small enterprises (MSEs). Loans are granted for the purpose of purchasing production inputs, as working capital, and/or for the acquisition of farm equipment, machineries, and post-harvest facilities. ACPC also makes available financing support for immediate relief and recovery of small farmers and fishers affected by calamities and disastrous events.
-- In addition to implementing lending programs on behalf of the DA and the DAR, the Land Bank of the Philippines (LBP) and Development Bank of the Philippines (DBP) also operate several lending programs for the agriculture and fisheries sector using internally-generated funds. LBP has 17 lending facilities while DBP has two credit programs.
-- ACPC will continue to implement its programs in partnership with the LBP and DBP and synchronize these with the priorities of the DA under Pres. Marcos Jr’s administration. For instance, with regards to the proposed credit support for Masagana 150/200 Palay Production Program, ACPC is proposing the following to address the credit requirements of said program:
-    - Tapping of existing credit programs such as RCEP, Sikat- Saka, ACEF, ANYO, KAYA,and LBP and DBP credit facilities;
-    - ACPC shall recalibrate its credit programs that provide financing support to rice farmers to align with the objectives and requirements of the M150/200 Program;
-    - Use of the Agricultural Guarantee Fund Pool (AGFP) facility to provide additional security to financial institutions that will be engaged in the M150/200 Program and encourage private banks to participate; and
-    - Provide Philippine Crop Insurance Corporation (PCIC) insurance to all palay producers.
+- The ACPC will continue to strengthen the implementation of the following strategies:
+Expand partnerships with rural and cooperative banks. At present, ACPC works with 50 rural and cooperative banks (RCBs). As of October 2021, there are 1,992 RCBs according to the Bangko Sentral ng Pilipinas (BSP) data;
+- Intensify partnership with government banks such as the LBP and the DBP, particularly in utilizing their network to reach the unbanked;
+- Bolster capabilities of selected farmers/fisherfolk organizations to become lending conduits of partner banks; and
+- Pursue the use of digital payment services to release and collect loans. Through these platforms, banks can release loans to SFF-borrowers in unbanked areas and in areas far from bank offices. Currently, the ACPC is exploring a partnership with the Palawan Express Pera Padala for the use of this service providers’ network in the countryside.
 
-## What are the new features of the amended agri-agra law (RA 11901 – The Agriculture, Fisheries and Rural Development Financing Enhancement Act of 2022)? 
+## What are the new features of the amended agri-agra law (RA 11901)? 
 
-- The following are the new features of the law:
-  - Expand coverage of beneficiaries to include members of the household of a farmer/agricultural worker, including their associations/organizations and enterprises/MSMEs;
-  - Broaden types of activities eligible for private sector financing to include activities complementary to development of agriculture sector and improve well-being of agri household (i.e. public rural infrastructure, programs that shall promote the health and wellness of farmers, fisherfolk, and ARBs, water and sanitation projects, social and governance projects, agri-tourism, digitalization/automation of farming, fishery and agri-business activities and processes, among others); 
-  - Provide incentives to promote financing towards priority agricultural sectors and promotes special lending arrangements (i.e. loans granted counted at 10x their outstanding amount, or as otherwise prescribed by the ACPC);
-  - Recognize importance of provision of organizational capacity and institution building, which is funded through a special fund composed of collected penalties;
-  - Facilitate increased access to funding for all financial institutions that are established and operate in rural communities, not just to accredited rural financial institutions; and
-  - Remove distinction between the 15% agriculture and 10% agrarian reform credit.
+- Expanded coverage of beneficiaries to include members of the household of a farmer/ agricultural worker, including their associations/ organizations and enterprises/ MSMEs;
+- Broader types of activities eligible for private sector financing;
+- Provision of incentives to promote financing towards priority agricultural sectors and promote special lending arrangements;
+- Recognition of the importance of providing organizational capacity and institution building, which is funded through a special fund composed of collected penalties;
+- Facilitates the increase in access to funding from all financial institutions that are established and operate in rural communities, not just from accredited rural financial institutions; and
+- Removal of distinction between the 15% agriculture and 10% agrarian reform credit.

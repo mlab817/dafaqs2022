@@ -10,12 +10,15 @@ tags:
 
 ## Is this project feasible for replication by farmers?
 
-- The smart greenhouse project is already proven effective especially in cooler areas in Western Visayas.   It will also work in the lowlands where temperature maybe higher with an improved design (roof ventilation), appropriate height.
+- The Smart Greenhouse Project is already proven effective especially in cooler areas in Western Visayas.   It will also work in the lowlands where temperature may be higher with an improved design (i.e., inclusion of roof ventilation) and appropriate height.
 
-## How can the technology be transferred to farmers?
+## How can the technology be transferred to farmers? 
 
-[NO RESPONSE as of September 3, 2022 1:30 PM]
+- The Project is conducting a long-term training course for qualified farmers, youth, representatives of SUCs, and other farmer groups and stakeholders.  Aside from the smart greenhouse production technology, they also learn about the automation processes inside the greenhouse.
+  - As of September 2022, the training course on Tomato and Bell Pepper (Paprika) farming is ongoing with seven (7) trainees from Guimaras and Iloilo, coming from LGUs, farmers’ groups, an SUC, and the private sector.
 
-## Are the crops grown in the smart greenhouse have market potential?
+## Is there market potential for the crops grown in the smart greenhouse? 
 
-- Cherry tomato is new to a lot of consumers.  But with market survey, linkaging, appropriate introduction and promotion of the product, the niche market is identified.  Other crops suitable under greenhouse production are proven to have market potential in the region.
+- Cherry tomato is new to a lot of consumers; but with market survey, linkaging, appropriate introduction and promotion of the product, the niche market has been identified.  
+- Other crops suitable under greenhouse production are proven to have market potential in the region. These include Bell Pepper (Paprika), and Melons (both Honey Dew and Netted type).
+ 
